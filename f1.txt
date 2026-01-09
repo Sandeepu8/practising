@@ -1,5 +1,4 @@
 Hello welcome back to my git.
-We are learning the git
+We are checking Automation Git to Jenkins push. Yes successfully Job done.
 THANKYOU, PRACTISE MORE...!
 
-This mess from branch
